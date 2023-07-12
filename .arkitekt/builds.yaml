@@ -1,0 +1,42 @@
+builds:
+- build_id: bea60f1c-6d63-4d37-8fc6-f218f242fa25
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: lengthi
+    requirements: []
+    scopes:
+    - read
+    version: dev
+- build_id: dd73a386-040a-4cdd-a873-4f128cba9a82
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: lengthi
+    requirements: []
+    scopes:
+    - read
+    version: dev
+- build_id: 746b3251-3d44-426e-8ddd-026140d9ffd5
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: lengthi
+    requirements: []
+    scopes:
+    - read
+    version: 0.0.1
+latest_build:
+  build_id: 746b3251-3d44-426e-8ddd-026140d9ffd5
+  builder: port
+  manifest:
+    author: jhnnsrs
+    entrypoint: app
+    identifier: lengthi
+    requirements: []
+    scopes:
+    - read
+    version: 0.0.1
